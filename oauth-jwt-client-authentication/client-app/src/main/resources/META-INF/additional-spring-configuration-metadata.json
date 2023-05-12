@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "jwt.publickey.location",
+      "type": "java.lang.String",
+      "description": "Location of the public RSA key used for signing JWT tokens."
+    },
+    {
+      "name": "jwt.privatekey.location",
+      "type": "java.lang.String",
+      "description": "Location of the private RSA key used for signing JWT tokens."
+    }
+  ]
+}
